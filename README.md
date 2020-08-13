@@ -10,4 +10,5 @@
 <p> Including: 
 <ol>
 <li>Regression without intermediate packages.
+<li>Notes about A/B testing.<a href=https://classroom.udacity.com/courses/ud257></a>
 </ol>
